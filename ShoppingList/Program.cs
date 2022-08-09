@@ -82,5 +82,6 @@ Console.WriteLine();
 Console.WriteLine();
 Console.WriteLine();
 
-Console.WriteLine($"Your sum is: ${sum}");
+
 showOrder(things);
+Console.WriteLine($"Your sum is: ${sum}");
