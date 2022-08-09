@@ -1,23 +1,33 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1700.7
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1Review", "Week1Review\Week1Review.csproj", "{170E5A24-1FF5-4858-9FBB-F36F57B51F4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week1Review", "Week1Review\Week1Review.csproj", "{170E5A24-1FF5-4858-9FBB-F36F57B51F4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopReview", "LoopReview\LoopReview.csproj", "{C8218C4D-2199-4963-850D-82B3096F4EAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopReview", "LoopReview\LoopReview.csproj", "{C8218C4D-2199-4963-850D-82B3096F4EAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo", "ArrayDemo\ArrayDemo.csproj", "{3A10436B-D575-4F02-80AB-E48F83DD256B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayDemo", "ArrayDemo\ArrayDemo.csproj", "{3A10436B-D575-4F02-80AB-E48F83DD256B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo2", "ArrayDemo2\ArrayDemo2.csproj", "{9C085BFA-3393-4026-972D-8C0AD311A938}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayDemo2", "ArrayDemo2\ArrayDemo2.csproj", "{9C085BFA-3393-4026-972D-8C0AD311A938}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arey", "Arey\Arey.csproj", "{8B303170-6F30-4F4F-86B6-9F1422B2E2F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arey", "Arey\Arey.csproj", "{8B303170-6F30-4F4F-86B6-9F1422B2E2F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreWhiles", "MoreWhiles\MoreWhiles.csproj", "{DE6BE5AB-14DA-402C-90A7-6BF41E17B074}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreWhiles", "MoreWhiles\MoreWhiles.csproj", "{DE6BE5AB-14DA-402C-90A7-6BF41E17B074}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepGoing", "KeepGoing\KeepGoing.csproj", "{E8320EFF-F55F-4DD9-AD58-F6294163781C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeepGoing", "KeepGoing\KeepGoing.csproj", "{E8320EFF-F55F-4DD9-AD58-F6294163781C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDatabase", "StudentDatabase\StudentDatabase.csproj", "{C2CE8DA6-3EB7-45B3-828B-3C2A963FF16E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentDatabase", "StudentDatabase\StudentDatabase.csproj", "{C2CE8DA6-3EB7-45B3-828B-3C2A963FF16E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListDemo", "ListDemo\ListDemo.csproj", "{E3DC8C83-A95C-4021-A145-7732EFD89115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryDemo", "DictionaryDemo\DictionaryDemo.csproj", "{7CAEFD28-566A-45AD-B8EA-9378FEE4DE1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingList", "ShoppingList\ShoppingList.csproj", "{09C7C203-EEC2-4C0C-8CB7-4EC895767EEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryDemo2", "DictionaryDemo2\DictionaryDemo2.csproj", "{A70936AD-5163-4C7F-BB62-CCCF2CC3C22F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryDemo3", "DictionaryDemo3\DictionaryDemo3.csproj", "{1208F866-C688-427F-8A98-FCF1DCF26AD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +67,26 @@ Global
 		{C2CE8DA6-3EB7-45B3-828B-3C2A963FF16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2CE8DA6-3EB7-45B3-828B-3C2A963FF16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2CE8DA6-3EB7-45B3-828B-3C2A963FF16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3DC8C83-A95C-4021-A145-7732EFD89115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DC8C83-A95C-4021-A145-7732EFD89115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DC8C83-A95C-4021-A145-7732EFD89115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3DC8C83-A95C-4021-A145-7732EFD89115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CAEFD28-566A-45AD-B8EA-9378FEE4DE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAEFD28-566A-45AD-B8EA-9378FEE4DE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAEFD28-566A-45AD-B8EA-9378FEE4DE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAEFD28-566A-45AD-B8EA-9378FEE4DE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C7C203-EEC2-4C0C-8CB7-4EC895767EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C7C203-EEC2-4C0C-8CB7-4EC895767EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C7C203-EEC2-4C0C-8CB7-4EC895767EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C7C203-EEC2-4C0C-8CB7-4EC895767EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70936AD-5163-4C7F-BB62-CCCF2CC3C22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70936AD-5163-4C7F-BB62-CCCF2CC3C22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70936AD-5163-4C7F-BB62-CCCF2CC3C22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70936AD-5163-4C7F-BB62-CCCF2CC3C22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1208F866-C688-427F-8A98-FCF1DCF26AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1208F866-C688-427F-8A98-FCF1DCF26AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1208F866-C688-427F-8A98-FCF1DCF26AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1208F866-C688-427F-8A98-FCF1DCF26AD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
