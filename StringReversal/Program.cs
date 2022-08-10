@@ -3,9 +3,10 @@ Console.Write("Hello! Please enter a word or sentence to be reversed: ");
 string sentence = Console.ReadLine(); // get user input
 string[] wrds = sentence.Split(' '); // separate input into string array 
                                     //
-foreach (string word in wrds)      // for each word in user's inputted sentence, reverse & print it. 
+                                   // for each word in user's inputted
+foreach (string wrd in wrds)      // sentence, reverse & print it.
 {
-    Console.Write($" {reverse(word)}");
+    Console.Write($" {reverse(wrd)}");
     //Console.Write(reverse(word));
 }
 
@@ -21,7 +22,7 @@ static string reverse(string input)
         word.Push(input[i].ToString());
     }
 
-    // getting (Popping) the elements from the stack in reverse order, storing into next via concatenation
+    // getting (Popping) the elements from the stack in reverse order, storing in next via concatenation
     while (word.Count > 0)
     {
         reversed += string.Concat(word.Pop());
