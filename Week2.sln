@@ -29,15 +29,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryDemo2", "Dictiona
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryDemo3", "DictionaryDemo3\DictionaryDemo3.csproj", "{1208F866-C688-427F-8A98-FCF1DCF26AD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopPractice", "LoopPractice\LoopPractice.csproj", "{E344B7A6-2E93-483D-93D7-C1F8AB0AB4B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopPractice", "LoopPractice\LoopPractice.csproj", "{E344B7A6-2E93-483D-93D7-C1F8AB0AB4B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingDemo", "OverloadingDemo\OverloadingDemo.csproj", "{D018CDC6-C543-40D7-8D26-0FF9B1FBA12F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverloadingDemo", "OverloadingDemo\OverloadingDemo.csproj", "{D018CDC6-C543-40D7-8D26-0FF9B1FBA12F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPractice", "StringPractice\StringPractice.csproj", "{113C2874-37D0-4E8C-9D39-9D90C15C31D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringPractice", "StringPractice\StringPractice.csproj", "{113C2874-37D0-4E8C-9D39-9D90C15C31D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackDemo", "StackDemo\StackDemo.csproj", "{D1271BB6-C468-455A-8F53-3157B79FBBB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackDemo", "StackDemo\StackDemo.csproj", "{D1271BB6-C468-455A-8F53-3157B79FBBB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReversal", "StringReversal\StringReversal.csproj", "{EC2FE93B-75D5-4CB4-BDF5-18204237A204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringReversal", "StringReversal\StringReversal.csproj", "{EC2FE93B-75D5-4CB4-BDF5-18204237A204}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab1P", "Lab1P\Lab1P.csproj", "{B0C5E85B-F35C-4DF2-B59D-ADEC82C27221}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2P", "Lab2P\Lab2P.csproj", "{87612313-6064-44A2-86C1-7CFD62C29322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3P", "Lab3P\Lab3P.csproj", "{ED5007FF-1F36-4CF3-A888-062A2E7B3539}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +123,18 @@ Global
 		{EC2FE93B-75D5-4CB4-BDF5-18204237A204}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC2FE93B-75D5-4CB4-BDF5-18204237A204}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC2FE93B-75D5-4CB4-BDF5-18204237A204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C5E85B-F35C-4DF2-B59D-ADEC82C27221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C5E85B-F35C-4DF2-B59D-ADEC82C27221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C5E85B-F35C-4DF2-B59D-ADEC82C27221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C5E85B-F35C-4DF2-B59D-ADEC82C27221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87612313-6064-44A2-86C1-7CFD62C29322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87612313-6064-44A2-86C1-7CFD62C29322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87612313-6064-44A2-86C1-7CFD62C29322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87612313-6064-44A2-86C1-7CFD62C29322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5007FF-1F36-4CF3-A888-062A2E7B3539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5007FF-1F36-4CF3-A888-062A2E7B3539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5007FF-1F36-4CF3-A888-062A2E7B3539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5007FF-1F36-4CF3-A888-062A2E7B3539}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
